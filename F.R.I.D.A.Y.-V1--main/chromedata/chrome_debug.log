@@ -1,0 +1,180 @@
+[13972:1748:0909/200608.585:WARNING:chrome_main_delegate.cc(742)] This is Chrome version 128.0.6613.120 (not a warning)
+[13972:1748:0909/200608.964:INFO:chrome_browser_cloud_management_controller.cc(196)] No machine level policy manager exists.
+[13972:1748:0909/200613.842:INFO:CONSOLE(11)] "[object DOMException]", source: https://pi.ai/_next/static/chunks/pages/_app-050d260ba8161068.js (11)
+[13972:1748:0909/200628.886:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[13972:1748:0909/200633.886:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[13972:1748:0909/200638.889:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[13972:1748:0909/200643.897:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[13972:1748:0909/200648.908:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[13972:1748:0909/200800.364:WARNING:controller_impl.cc(1192)] Background download complete, client: 6, completion type: 0, file size:265059
+[13972:1748:0909/200800.576:WARNING:controller_impl.cc(1192)] Background download complete, client: 6, completion type: 0, file size:5154
+[13972:1748:0909/200805.387:WARNING:controller_impl.cc(1192)] Background download complete, client: 6, completion type: 0, file size:883094
+[13972:1748:0909/200809.825:WARNING:controller_impl.cc(1192)] Background download complete, client: 6, completion type: 0, file size:2200227
+[13972:1748:0909/200811.003:WARNING:controller_impl.cc(1192)] Background download complete, client: 6, completion type: 0, file size:45156
+[13972:1748:0909/200813.083:WARNING:controller_impl.cc(1192)] Background download complete, client: 6, completion type: 0, file size:4680
+[13972:1748:0909/200814.117:WARNING:controller_impl.cc(1192)] Background download complete, client: 6, completion type: 0, file size:2747169
+[13972:1748:0909/200815.211:WARNING:controller_impl.cc(1192)] Background download complete, client: 6, completion type: 0, file size:3844
+[13972:1748:0909/200818.275:WARNING:controller_impl.cc(1192)] Background download complete, client: 6, completion type: 0, file size:7794
+[13972:1748:0909/200818.839:WARNING:controller_impl.cc(1192)] Background download complete, client: 6, completion type: 0, file size:1463571
+[13972:1748:0909/200915.055:WARNING:controller_impl.cc(1192)] Background download complete, client: 6, completion type: 0, file size:68665978
+[13972:7584:0909/233436.567:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[9372:10016:0909/233436.803:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[13972:1748:0910/175658.353:WARNING:notification_display_service_impl.cc(306)] Profile not loaded correctly
+[13972:1748:0910/175658.353:ERROR:profile_manager.cc(737)] Loading a profile path that does not exist
+[13972:1748:0910/202111.282:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[13972:1748:0910/202116.282:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[13972:1748:0910/202121.282:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[13972:1748:0910/202126.283:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[13972:1748:0910/202131.286:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[13972:1748:0910/202136.288:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[9372:16132:0910/233835.897:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[13972:14276:0910/233836.113:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[13972:1748:0912/171312.738:WARNING:notification_display_service_impl.cc(306)] Profile not loaded correctly
+[13972:1748:0912/171312.738:ERROR:profile_manager.cc(737)] Loading a profile path that does not exist
+[13972:1748:0912/171312.759:WARNING:notification_display_service_impl.cc(306)] Profile not loaded correctly
+[13972:1748:0912/171312.759:ERROR:profile_manager.cc(737)] Loading a profile path that does not exist
+[13972:7584:0912/171315.756:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[9372:10016:0912/171315.772:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[13972:14276:0912/171320.777:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[9372:10016:0912/171320.822:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[13972:14276:0912/171330.790:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[9372:16132:0912/171330.836:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[13972:7584:0912/171350.802:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[9372:10016:0912/171350.849:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[13972:1748:0912/172626.601:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[13972:1748:0912/172631.603:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[13972:1748:0912/172636.604:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[13972:1748:0912/172641.605:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[13972:1748:0912/172646.606:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[13972:1748:0912/173646.736:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[13972:1748:0912/173721.741:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[13972:1748:0912/173726.742:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[13972:1748:0912/173731.748:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[13972:1748:0912/173736.750:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[13972:1748:0912/173741.751:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[13972:1748:0912/175557.092:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[13972:1748:0912/175602.093:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[13972:1748:0912/175607.096:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[13972:1748:0912/175612.143:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[13972:1748:0912/175617.144:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[13972:1748:0912/175622.146:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[13972:1748:0912/175627.147:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[13972:1748:0912/175632.148:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[13972:1748:0912/175737.168:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[13972:1748:0912/175812.190:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[13972:1748:0912/175817.191:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[13972:1748:0912/175822.192:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[13972:1748:0912/175827.194:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[13972:1748:0912/175832.195:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[13972:1748:0912/175837.199:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[13972:1748:0912/175842.200:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[13972:1748:0912/175852.212:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[13972:1748:0912/175857.225:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[13972:1748:0912/175902.226:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[13972:1748:0912/175907.227:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[13972:1748:0912/175912.228:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[13972:1748:0912/175917.229:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[13972:1748:0912/175922.236:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[13972:1748:0912/175927.240:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[13972:1748:0912/175932.243:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[13972:1748:0912/175937.245:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[13972:1748:0912/175942.246:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[13972:1748:0912/175947.308:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[13972:1748:0912/175952.311:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[13972:1748:0912/175957.311:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[13972:1748:0912/180002.314:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[13972:1748:0912/180017.317:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[13972:1748:0912/180117.338:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[13972:1748:0912/180127.340:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[13972:1748:0912/180457.570:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[13972:1748:0912/182913.339:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[13972:1748:0912/182918.341:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[13972:1748:0912/190029.003:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[13972:1748:0912/193129.419:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[13972:1748:0912/193149.410:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[13972:1748:0912/193229.420:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[13972:1748:0912/193234.421:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[13972:1748:0915/115805.177:WARNING:notification_display_service_impl.cc(306)] Profile not loaded correctly
+[13972:1748:0915/115805.177:ERROR:profile_manager.cc(737)] Loading a profile path that does not exist
+[13972:14276:0915/115832.040:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[9372:10016:0915/115832.043:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[9372:10016:0915/115837.068:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[13972:7584:0915/115837.085:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[9372:10016:0915/115847.080:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[13972:7584:0915/115847.097:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[9372:16132:0915/115907.120:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[13972:14276:0915/115907.138:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[13972:14276:0915/115935.289:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[9372:10016:0915/115935.295:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[13972:14276:0915/115935.781:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[9372:16132:0915/115935.870:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[13972:1748:0915/120044.493:ERROR:device_event_log_impl.cc(196)] [12:00:44.489] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[13972:1748:0915/133815.692:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[13972:1748:0915/133820.697:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[13972:1748:0915/133825.698:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[13972:1748:0915/133830.699:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[13972:1748:0915/133835.699:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[13972:1748:0915/133915.716:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[13972:14276:0915/172113.198:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[9372:16132:0915/172113.436:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[13972:1748:0916/120650.215:WARNING:notification_display_service_impl.cc(306)] Profile not loaded correctly
+[13972:1748:0916/120650.215:ERROR:profile_manager.cc(737)] Loading a profile path that does not exist
+[13972:14276:0916/120944.180:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[9372:17916:0916/120944.260:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[13972:14276:0916/122719.684:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[9372:10016:0916/122719.696:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[13972:14276:0916/122724.695:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[9372:16132:0916/122724.704:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[13972:14276:0916/122734.714:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[9372:10016:0916/122734.722:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[13972:7584:0916/122754.730:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[9372:16132:0916/122754.748:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[9372:10016:0916/122857.949:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[13972:14276:0916/122858.066:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[13972:14276:0916/122858.528:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[9372:16132:0916/122858.539:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[13972:7584:0916/122903.541:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[9372:16132:0916/122903.554:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[13972:7584:0916/153539.448:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[9372:16132:0916/153539.453:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[9372:17916:0917/060300.093:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[13972:14276:0917/060300.093:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[13972:1748:0917/060300.521:ERROR:device_event_log_impl.cc(196)] [06:03:00.518] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[13972:1748:0917/060300.618:ERROR:device_event_log_impl.cc(196)] [06:03:00.618] USB: usb_service_win.cc:308 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+[13972:16336:0917/060310.273:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[9372:17916:0917/060310.276:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[9372:16132:0917/060330.296:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[13972:14276:0917/060330.299:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[13972:7584:0917/091631.614:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[9372:10016:0917/091631.615:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[13972:4596:0917/141916.025:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[9372:16132:0917/141916.079:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[13972:17864:0917/141920.327:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[9372:10016:0917/141920.331:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[13972:17864:0917/141920.399:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[13972:14276:0917/141920.463:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[9372:16132:0917/141920.478:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[9372:16132:0917/141920.584:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[13972:14276:0917/141920.586:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[9372:10016:0917/141958.578:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[13972:14276:0917/141958.579:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[9372:16132:0917/142003.600:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[13972:14276:0917/142003.604:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[9372:16132:0917/142013.617:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[13972:17864:0917/142013.621:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[9372:10016:0917/142033.632:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[13972:14276:0917/142033.633:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[9372:10016:0917/164831.319:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[13972:14276:0917/164831.356:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[9372:10016:0917/164831.969:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[13972:7584:0917/164832.025:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[13972:1748:0917/165053.251:WARNING:controller_impl.cc(1192)] Background download complete, client: 6, completion type: 0, file size:45159
+[13972:1748:0917/165053.316:WARNING:controller_impl.cc(1192)] Background download complete, client: 6, completion type: 0, file size:5156
+[13972:1748:0917/165056.892:WARNING:controller_impl.cc(1192)] Background download complete, client: 6, completion type: 0, file size:2747170
+[13972:1748:0917/182651.005:ERROR:device_event_log_impl.cc(196)] [18:26:51.004] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[9372:10016:0918/192052.752:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[13972:7584:0918/192052.753:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[13972:7584:0918/192057.826:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[9372:10016:0918/192057.857:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[13972:7584:0918/192107.839:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[9372:16132:0918/192107.873:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
